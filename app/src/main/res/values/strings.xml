@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">tindAR</string>
+    <string name="button">Tap Here To See People Around You Now</string>
+    <string name="title">Welcome to tindAR!</string>
+    <string name="meet">Locate a flat surface and tap your screen to place a visual representation of a person in your area!</string>
+    <string name="tap">Tap on someone to get to know more about them! You can then \"like\" or \"pass\" on them.</string>
+    <string name="match">If you both like each other, you will match and can begin a conversation!</string>
+    <string name="gotit">Got it!</string>
+    <string name="like">LIKE</string>
+    <string name="pass">PASS</string>
+    <string name="itsmatch">IT\'S A MATCH!</string>
+    <string name="close">CLOSE</string>
+    <string name="chat">CHAT WITH YOUR MATCH</string>
+    <string name="type">Type your message here...</string>
+    <string name="send">SEND MESSAGE</string>
+    <string name="matches">MATCHES</string>
+    <string name="nomatches">There are no matches</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
